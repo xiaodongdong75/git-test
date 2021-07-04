@@ -18,6 +18,6 @@ public class GitTest {
         System.out.println("master test");
 
         System.out.println("hit fix2");
-
+ System.out.println("hfit fix2");
     }
 }
